@@ -68,10 +68,10 @@ Clauses
  compare(Sentence,"").
 
  task:-
- 	makewindow(1,121,15, "Минайчев Антон ЛР1", 0, 0, 25, 80),
+ 	makewindow(1,121,15, "Minaichev Anton", 0, 0, 25, 80),
  	storage(A,_,_),
  	write(A), nl,
- 	write("Введите первые символы(пустая строка для выхода): "),
+ 	write("Enter the first symbols of the sentence (empty string to exit): "),
  	readln(FirstSymbols),
  	NOT(FirstSymbols = ""), !,
  	print_sentences(FirstSymbols),
