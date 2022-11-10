@@ -1,0 +1,11 @@
+﻿#include @"Exe\dbfile\dbfile.ph"
+
+% privately used packages
+#include @"pfc\core.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"Exe\dbfile\dbfile.pro"
