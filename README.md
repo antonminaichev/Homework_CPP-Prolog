@@ -6,7 +6,7 @@
 - [Struct](https://github.com/antonminaichev/Homework/tree/main/CPP%20CBeer/01-lab-04-struct)
 - [Files](https://github.com/antonminaichev/Homework/tree/main/CPP%20CBeer/01-lab-05-file-stream)
 - [Algorithm](https://github.com/antonminaichev/Homework/tree/main/CPP%20CBeer/01-lab-06-algorithm)
-To be continued...
+- *To be continued...*
 
 ## **Prolog**
 
