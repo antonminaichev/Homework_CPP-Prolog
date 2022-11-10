@@ -10,5 +10,5 @@
 
 ## **Prolog**
 
-- Lab #1
-- Lab #2
+- [Lab #1](https://github.com/antonminaichev/Homework/blob/main/Prolog/LAB1_1.PRO)
+- [Lab #2](https://github.com/antonminaichev/Homework/tree/main/Prolog/LAB1_2)
